@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>icons/128x128/connected.png</file>
+        <file>icons/128x128/disconnected.png</file>
+        <file>icons/128x128/filenew.png</file>
+        <file>icons/128x128/filesave.png</file>
+        <file>icons/128x128/settings.png</file>
+        <file>icons/128x128/logout.png</file>
+        <file>icons/128x128/fullscreen.png</file>
+        <file>icons/bug.png</file>
+        <file>icons/help.png</file>
+        <file>icons/tools.png</file>
+        <file>icons/control-panel.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/reload.png</file>
+        <file>icons/enter.png</file>
+    </qresource>
+    <qresource prefix="/translate">
+    </qresource>
+</RCC>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- program name="NanoTOP" version="0.1" -->
+<driver>
+	<page name="page 1" title="en:Title 1;ru_RU:Заголовок" xSize="26" ySize="12">
+		<pushButton name="switchLED" title="en:Switch LED;ru_RU:Светодиод">
+			<x>22</x>
+			<y>1</y>
+			<xSize>3</xSize>
+			<ySize>3</ySize>
+			<signalID>1</signalID>
+			<onQuestion>false</onQuestion>
+			<offQuestion>false</offQuestion>
+		</pushButton>
+	</page>
+	<page name="page 2" title="en:Title 2;ru_RU:Заголовок 2" xSize="26" ySize="12">
+		<pushButton name="switchLED" title="en:Switch LED;ru_RU:Светодиод">
+			<x>22</x>
+			<y>1</y>
+			<xSize>3</xSize>
+			<ySize>3</ySize>
+			<signalID>0</signalID>
+			<onQuestion>false</onQuestion>
+			<offQuestion>false</offQuestion>
+		</pushButton>
+	</page>
+</driver>
