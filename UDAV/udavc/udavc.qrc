@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>gui/icons/128x128/connected.png</file>
+        <file>gui/icons/128x128/disconnected.png</file>
+        <file>gui/icons/128x128/filenew.png</file>
+        <file>gui/icons/128x128/filesave.png</file>
+        <file>gui/icons/128x128/settings.png</file>
+        <file>gui/icons/128x128/logout.png</file>
+        <file>gui/icons/128x128/fullscreen.png</file>
+        <file>gui/icons/bug.png</file>
+        <file>gui/icons/help.png</file>
+        <file>gui/icons/tools.png</file>
+        <file>gui/icons/control-panel.png</file>
+        <file>gui/icons/exit.png</file>
+        <file>gui/icons/reload.png</file>
+        <file>gui/icons/enter.png</file>
+    </qresource>
+    <qresource prefix="/translate">
+        <file>udavc_ru.qm</file>
+    </qresource>
+</RCC>
